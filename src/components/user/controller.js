@@ -37,7 +37,7 @@ export const update = (req, res) => {
 
   return res.json({
     ok: true,
-    data: "User updated",
+    data: "User updated ",
   });
 };
 
